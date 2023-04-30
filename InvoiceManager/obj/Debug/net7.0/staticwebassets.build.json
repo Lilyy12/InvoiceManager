@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OMiAI29cvEbCnjJDjhf4joAcR1jFvv/jhGKHw/i2s5g=",
+  "Source": "InvoiceManager",
+  "BasePath": "_content/InvoiceManager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

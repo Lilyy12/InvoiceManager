@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{F37DA9BE-2E9C-4FF5-B89E-DE440D23D926}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InvoiceManager/Storage/InvoiceStorage.cs">
+    <Files>
+      <File FileName="InvoiceManager/Program.cs" Line="11" Column="57" />
+      <File FileName="InvoiceManager/Controllers/InvoicesController.cs" Line="16" Column="6" />
+      <File FileName="InvoiceManager/Models/Invoice.cs" Line="11" Column="36" />
+      <File FileName="InvoiceManager/Models/InvoiceItem.cs" Line="12" Column="2" />
+      <File FileName="InvoiceManager/Storage/InvoiceStorage.cs" Line="12" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InvoiceManager" expanded="True">
+            <Node name="InvoiceManager" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Storage" expanded="True">
+                <Node name="InvoiceStorage.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.InvoiceManager PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
